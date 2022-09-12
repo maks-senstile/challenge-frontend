@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": "SKU 1",
+  "desc": "SKU 1 full description",
+  "img": "/path_to_local_storage/product_1.png",
+  "textiles": [
+    {
+      "title": "Textile title 1",
+      "desc": "Textile 1 description",
+      "material": "Textile material 1",
+      "images": [
+        "/path_to_local_storage/textile_1.png",
+        "/path_to_local_storage/textile_2.png",
+        "/path_to_local_storage/textile_3.png"
+      ],
+      "comments": [
+        {
+          "text": "Comment 1",
+          "author": "Author 1"
+        },
+        {
+          "text": "Comment 2",
+          "author": "Author 1"
+        }
+      ]
+    }
+  ],
+  "rules": [],
+  "suppliers": []
+}

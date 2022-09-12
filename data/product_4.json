@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "name": "SKU 4",
+  "desc": "SKU 4 full description",
+  "img": "/path_to_local_storage/product_1.png",
+  "textiles": [
+    {
+      "title": "Textile title 4",
+      "desc": "Textile 4 description",
+      "material": "Textile material 4",
+      "images": [
+        "/path_to_local_storage/textile_1.png",
+        "/path_to_local_storage/textile_2.png",
+        "/path_to_local_storage/textile_3.png"
+      ],
+      "comments": [
+        {
+          "text": "Comment 1",
+          "author": "Author 1"
+        }
+      ]
+    }
+  ],
+  "rules": [],
+  "suppliers": []
+}

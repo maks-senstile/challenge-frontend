@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "SKU 1",
+    "desc": "SKU 1 short description",
+    "img": "/path_to_local_storage/product_1.png"
+  },
+  {
+    "id": 2,
+    "name": "SKU 2",
+    "desc": "SKU 2 short description",
+    "img": "/path_to_local_storage/product_2.png"
+  },
+  {
+    "id": 3,
+    "name": "SKU 3",
+    "desc": "SKU 3 short description",
+    "img": "/path_to_local_storage/product_3.png"
+  },
+  {
+    "id": 4,
+    "name": "SKU 4",
+    "desc": "SKU 4 short description",
+    "img": "/path_to_local_storage/product_4.png"
+  },
+  {
+    "id": 5,
+    "name": "SKU 5",
+    "desc": "SKU 5 short description",
+    "img": "/path_to_local_storage/product_5.png"
+  },
+  {
+    "id": 6,
+    "name": "SKU 6",
+    "desc": "SKU 6 short description",
+    "img": "/path_to_local_storage/product_6.png"
+  }
+]
