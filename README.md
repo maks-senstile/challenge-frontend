@@ -18,7 +18,7 @@ Note: it's not required to follow provided views, feel free to show creativity.
 
 We value “thinking out of the box” and ability to research new ideas and solutions for challenging new developments.
 
-The question is: “How would you build this 3D Universe?” (See attached pictures).
+The question is: “How would you build this 3D Universe?” (See attached pictures and the demo http://54.93.101.219/).
 
 This exercise is a free task that can be either coded or explained in written form.
 
