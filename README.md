@@ -26,4 +26,4 @@ The points represent textiles. When you click on particular textile (point) it s
 You can select either all points or isolate particular ones. You can also adjust amount of neighboring textiles you would like to find.
 
 
-Once complete please invite `maks-senstile` for review
+Once complete please invite `maks-senstile` and `codev0` for review
