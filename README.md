@@ -25,5 +25,14 @@ This exercise is a free task that can be either coded or explained in written fo
 The points represent textiles. When you click on particular textile (point) it shows similar textiles (other points) from the database.
 You can select either all points or isolate particular ones. You can also adjust amount of neighboring textiles you would like to find.
 
+## What we will pay attention to
+1. Code quality
+2. Neatness
+3. Modularity
+4. Knowledge of the framework
+5. Semantics
+6. Maintainability
+7. Optimizations
+8. Tests (would be nice)
 
-Once complete please invite `maks-senstile` and `codev0` for review
+Once complete please invite `maks-senstile` and `codev0` for review in github
